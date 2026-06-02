@@ -36,4 +36,4 @@ Hangman Game is a simple text-based game developed using Python. The player has 
 
 ##Conclusion
 
-This project helps beginners understand basic Python programming concepts through a simple and interactive game.
+This project helps beginners understand basic Python programming concepts through this simple and interactive game.
