@@ -1,10 +1,10 @@
-#Hangman Game
+# Hangman Game
 
-##Description
+## Description
 
 Hangman Game is a simple text-based game developed using Python. The player has to guess a hidden word one letter at a time. The game ends when the player guesses the word correctly or uses all 6 attempts.
 
-##Features
+## Features
 
 - Random word selection
 - 5 predefined words
@@ -12,12 +12,12 @@ Hangman Game is a simple text-based game developed using Python. The player has 
 - Input validation
 - Win/Lose conditions
 
-##Technologies Used
+## Technologies Used
 
 - Python
 - Random Module
 
-##Concepts Used
+## Concepts Used
 
 - Lists
 - Strings
@@ -26,7 +26,7 @@ Hangman Game is a simple text-based game developed using Python. The player has 
 - User Input
 - Random Module
 
-##Sample Words
+## Sample Words
 
 - python
 - computer
@@ -34,6 +34,6 @@ Hangman Game is a simple text-based game developed using Python. The player has 
 - student
 - project
 
-##Conclusion
+## Conclusion
 
 This project helps beginners understand basic Python programming concepts through this simple and interactive game.
