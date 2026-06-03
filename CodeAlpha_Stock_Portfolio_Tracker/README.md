@@ -33,9 +33,13 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 📊 Sample Stocks
 
 📈 AAPL : $180
+
 🚗 TSLA : $250
+
 🔍 GOOGL : $140
+
 💻 MSFT : $420
+
 🛒 AMZN : $190
 
 
