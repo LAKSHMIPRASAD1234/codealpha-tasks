@@ -29,22 +29,17 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 💻 MSFT : $420
 🛒 AMZN : $190
 
-▶️ How to Run
-
-1️⃣ Open the project folder.
-2️⃣ Run the file:
-
-python tracker.py
-
-3️⃣ Enter stock names and quantities.
-4️⃣ Type "done" to finish.
 
 🎯 Learning Outcomes
 
 ✔️ Understanding dictionaries in Python
+
 ✔️ Working with user input
+
 ✔️ Performing calculations
+
 ✔️ Using loops and conditional statements
+
 ✔️ Saving data to files
 
 🏆 Conclusion
