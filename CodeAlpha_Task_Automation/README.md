@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Webpage Title Scraper is a Python automation script that fetches the title of a fixed webpage and saves it to a text file automatically.
+    Webpage Title Scraper is a Python automation script that fetches the title of a fixed webpage and saves it to a text file automatically.
 
 ## ✨ Features
 
@@ -32,11 +32,11 @@ Webpage Title Scraper is a Python automation script that fetches the title of a 
 
 1. Install requests module:
 
-pip install requests
+   pip install requests
 
 2. Run the script:
 
-python webpage_title_scraper.py
+   python webpage_title_scraper.py
 
 3. Check the generated title.txt file.
 
