@@ -1,10 +1,10 @@
-📈 Stock Portfolio Tracker
+# 📈 Stock Portfolio Tracker
 
-📌 Description
+## 📌 Description
 
 Stock Portfolio Tracker is a simple Python application that helps users calculate the total value of their stock investments. Users enter stock names and quantities, and the program calculates the total investment based on predefined stock prices.
 
-✨ Features
+## ✨ Features
 
 ✅ User input for stock names and quantities
 
@@ -18,7 +18,7 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 
 ✅ Simple console-based interface
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 🐍 Python
 
@@ -28,7 +28,7 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 
 ➕ Basic Arithmetic
 
-📂 File Handling
+## 📂 File Handling
 
 📊 Sample Stocks
 
@@ -43,7 +43,7 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 🛒 AMZN : $190
 
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 ✔️ Understanding dictionaries in Python
 
@@ -55,6 +55,6 @@ Stock Portfolio Tracker is a simple Python application that helps users calculat
 
 ✔️ Saving data to files
 
-🏆 Conclusion
+## 🏆 Conclusion
 
 This project demonstrates the use of Python dictionaries, file handling, and basic arithmetic operations to create a simple stock portfolio tracking system.
